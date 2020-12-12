@@ -10,7 +10,7 @@ body {
 .top-container {
 background-color: #d0e8f2;
 text-align: center;
-position: relative;
+position: absolute;
 left: 0;
 top: 0;
 padding-top:90px;
