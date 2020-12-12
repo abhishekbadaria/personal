@@ -51,7 +51,7 @@ h3{
 .Bottom-cloud {
   position: absolute;
   left:300px;
-  top: 300px;
+ /* top: 300px;*/
 }
 p {
   color: #40514E;
